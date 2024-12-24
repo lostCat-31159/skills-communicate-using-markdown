@@ -1,5 +1,7 @@
 # H1
-
+- [ ] Turn on the lights
+- [X] Turn on the stove
+- [ ] Turn off the stove
 # H2
 
 ``` javascript
